@@ -12,6 +12,11 @@ header {
 
 header h1 {
     float: left;
+    text-indent: -9999px;
+    background: url('../images/dog-icon.svg') no-repeat;
+    height: 35px;
+    width: 35px;
+    margin-top: 8px;
 }
 
 header nav {
