@@ -82,3 +82,7 @@ nav li:hover {
     width: 200px;
     margin: 25px 0;
 }
+
+.three-col p {
+    margin-bottom: 40px;
+}
