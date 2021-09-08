@@ -67,3 +67,8 @@ nav li:hover {
     background: #3F8DA7;
     color: white;
 }
+
+.three-col {
+    width: 30%;
+    display: inline-block;
+}
