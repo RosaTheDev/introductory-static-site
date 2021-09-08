@@ -75,3 +75,11 @@ nav li:hover {
     vertical-align: top;
     margin: 0 10px;
 }
+
+.three-col img {
+    border-radius: 50%;
+    border: 3px solid #3F8DA7;
+    height: 200px;
+    width: 200px;
+    margin: 25px 0;
+}
