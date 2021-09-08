@@ -40,3 +40,10 @@ nav li:hover {
     padding: 50px 0;
     margin-bottom: 50px;
 }
+
+#hero img {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    border: 5px solid #3F8DA7;
+}
