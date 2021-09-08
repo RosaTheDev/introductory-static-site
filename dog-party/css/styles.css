@@ -1,5 +1,5 @@
 body {
-    background-color: magenta;
+    
     font-family: 'Raleway', sans-serif;
 }
 
@@ -102,4 +102,12 @@ footer ul {
 footer li {
     display: inline-block;
     margin: 0 25px;
+}
+
+.link {
+    color: white;
+}
+
+.link:hover {
+    color: #92E0E5;
 }
