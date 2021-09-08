@@ -53,8 +53,7 @@ nav li:hover {
     font-size: 30px;
      margin-bottom: 25px;
 }
-
-#hero a {
+ a {
     background: white;
     border: 5px solid #3F8DA7;
     color: #3F8DA7;
@@ -62,7 +61,7 @@ nav li:hover {
     text-decoration: none;
 }
 
-#hero a:hover {
+ a:hover {
     padding: 5px 10px;
     background: #3F8DA7;
     color: white;
