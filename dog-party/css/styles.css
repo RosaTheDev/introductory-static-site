@@ -2,3 +2,10 @@ body {
     background-color: magenta;
     font-family: 'Raleway', sans-serif;
 }
+
+header {
+    background: #92E0E5;
+    color: white;
+    height: 50px;
+    padding: 0 25px;
+}
