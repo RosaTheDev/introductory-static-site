@@ -86,3 +86,11 @@ nav li:hover {
 .three-col p {
     margin-bottom: 40px;
 }
+
+footer {
+    background: #3F8DA7;
+    color: white;
+    margin-top: 40px;
+    padding: 20px 0;
+    text-align: center;
+}
