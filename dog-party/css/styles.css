@@ -71,4 +71,7 @@ nav li:hover {
 .three-col {
     width: 30%;
     display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    margin: 0 10px;
 }
