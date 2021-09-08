@@ -94,3 +94,12 @@ footer {
     padding: 20px 0;
     text-align: center;
 }
+
+footer ul {
+    margin: 40px 0;
+}
+
+footer li {
+    display: inline-block;
+    margin: 0 25px;
+}
